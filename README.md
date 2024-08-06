@@ -6,11 +6,9 @@
 
 2. Clonar um repositório remoto para o nosso computador local; [x]
 
-3. Fazer alterações -- Adicionar/ Commitar/ Enviar arquivos; []
+3. Fazer alterações -- Adicionar/ Commitar/ Enviar arquivos; [x]
 
-4. Crair uma nova Branch; []
+4. Criar uma nova Branch e Merge; [x]
 
-5. Realizar um Pull Raquest e Merge; []
-
-7. Criar nosso primeiro Fork; []
+5. Realizar um fork e o Pull Raquest; [x]
 
